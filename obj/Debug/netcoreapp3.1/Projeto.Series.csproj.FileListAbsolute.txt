@@ -1,0 +1,14 @@
+C:\Users\Code\Desktop\Projeto.Series\bin\Debug\netcoreapp3.1\Projeto.Series.exe
+C:\Users\Code\Desktop\Projeto.Series\bin\Debug\netcoreapp3.1\Projeto.Series.deps.json
+C:\Users\Code\Desktop\Projeto.Series\bin\Debug\netcoreapp3.1\Projeto.Series.runtimeconfig.json
+C:\Users\Code\Desktop\Projeto.Series\bin\Debug\netcoreapp3.1\Projeto.Series.runtimeconfig.dev.json
+C:\Users\Code\Desktop\Projeto.Series\bin\Debug\netcoreapp3.1\Projeto.Series.dll
+C:\Users\Code\Desktop\Projeto.Series\bin\Debug\netcoreapp3.1\Projeto.Series.pdb
+C:\Users\Code\Desktop\Projeto.Series\obj\Debug\netcoreapp3.1\Projeto.Series.csproj.AssemblyReference.cache
+C:\Users\Code\Desktop\Projeto.Series\obj\Debug\netcoreapp3.1\Projeto.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code\Desktop\Projeto.Series\obj\Debug\netcoreapp3.1\Projeto.Series.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\Projeto.Series\obj\Debug\netcoreapp3.1\Projeto.Series.AssemblyInfo.cs
+C:\Users\Code\Desktop\Projeto.Series\obj\Debug\netcoreapp3.1\Projeto.Series.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\Projeto.Series\obj\Debug\netcoreapp3.1\Projeto.Series.dll
+C:\Users\Code\Desktop\Projeto.Series\obj\Debug\netcoreapp3.1\Projeto.Series.pdb
+C:\Users\Code\Desktop\Projeto.Series\obj\Debug\netcoreapp3.1\Projeto.Series.genruntimeconfig.cache
